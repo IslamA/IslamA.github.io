@@ -27,7 +27,7 @@ SOFTWARE.
   color: #969896;
 }
 
-.pl-c1 /* constant, variable.other.constant, support, meta.property-name, support.constant, support.variable, meta.module-reference, markup.raw, meta.diff.header */,
+.C-c1 /* constant, variable.other.constant, support, meta.property-name, support.constant, support.variable, meta.module-reference, markup.raw, meta.diff.header */,
 .pl-s .pl-v /* string variable */ {
   color: #0099cd;
 }
@@ -121,4 +121,3 @@ SOFTWARE.
 .pl-mo /* meta.output */ {
   color: #264ec5;
 }
-
